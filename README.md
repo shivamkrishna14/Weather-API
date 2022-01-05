@@ -1,1 +1,1 @@
-# Weather-API
+It is a resposnive Weather API created using HTML, CSS and JavaScript. It will show you the temperature of day and night, humidity, pressure and wind speed.Including sunrise and sunset time of different location on a particular date.
